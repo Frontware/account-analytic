@@ -5,7 +5,7 @@
     "name": "POS Analytic Config",
     "summary": "Use analytic account defined on POS configuration for POS orders",
     "author": "ACSONE SA/NV, Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "category": "Point Of Sale, Accounting",
     "version": "14.0.1.0.0",
     "license": "AGPL-3",

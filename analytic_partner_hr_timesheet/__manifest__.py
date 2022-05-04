@@ -9,7 +9,7 @@
     "category": "Human Resources",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "depends": [
         "analytic_partner",
         "hr_timesheet",

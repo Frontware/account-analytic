@@ -10,7 +10,7 @@
     "license": "AGPL-3",
     "summary": "Add analytic account on products and product categories",
     "author": "Akretion, Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "depends": ["account"],
     "data": ["views/product_view.xml"],
     "demo": ["demo/product_demo.xml"],

@@ -12,7 +12,7 @@
     "ClearCorp, OpenSynergy Indonesia, "
     "Hibou Corp., "
     "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "category": "Warehouse Management",
     "license": "AGPL-3",
     "depends": ["stock_account", "analytic"],

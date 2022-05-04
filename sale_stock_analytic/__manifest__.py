@@ -9,6 +9,6 @@
     "version": "14.0.1.0.0",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "depends": ["sale_stock", "stock_analytic"],
 }

@@ -12,6 +12,6 @@ rebel_module_groups: []
 repo_description: 'TODO: add repo description.'
 repo_name: account-analytic
 repo_slug: account-analytic
-repo_website: https://github.com/OCA/account-analytic
+repo_website: https://github.com/Frontware/account-analytic
 travis_apt_packages: []
 travis_apt_sources: []

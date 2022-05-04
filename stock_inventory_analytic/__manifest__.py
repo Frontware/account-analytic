@@ -5,7 +5,7 @@
     "summary": """
         Stock Inventory Analytic """,
     "author": "ForgeFlow, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "category": "Warehouse Management",
     "version": "14.0.1.0.2",
     "license": "AGPL-3",

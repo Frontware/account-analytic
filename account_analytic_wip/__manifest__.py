@@ -6,7 +6,7 @@
     "version": "14.0.2.1.0",
     "author": "Open Source Integrators, Odoo Community Association (OCA)",
     "summary": "Track and report WIP and Variances based on Analytic Items",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "license": "AGPL-3",
     "depends": ["stock_account", "analytic_activity_based_cost"],
     "category": "Accounting/Accounting",

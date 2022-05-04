@@ -7,7 +7,7 @@
     "category": "Analytic Accounting",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV, " "Tecnativa, " "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-analytic",
+    "website": "https://github.com/Frontware/account-analytic",
     "depends": [
         "account_analytic_required",
     ],
